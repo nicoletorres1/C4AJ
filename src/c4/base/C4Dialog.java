@@ -36,7 +36,7 @@ public class C4Dialog extends JDialog {
     private JLabel msgBar = new JLabel();
     
     public C4Dialog() {
-        super((JFrame) null, "Adrian Gomez R & Stephanie Medina");
+        super((JFrame) null, "");
         setSize(DIMENSION);
         
         board = new Board();
